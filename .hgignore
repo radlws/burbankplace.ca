@@ -1,3 +1,0 @@
-# use glob syntax, default is regexp. # */migrations/
-syntax: glob
-.idea/
