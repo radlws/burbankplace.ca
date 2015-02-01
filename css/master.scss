@@ -247,10 +247,7 @@ body{
   //background-repeat: repeat;
   //background-position: right;
   background: rgba(60, 29, 2, 0.46);
-  /*@media #{$retina}
-  {
-    background-image: url("../images/light_noise_diagonal_@2x.png");
-  }*/
+
   header{
       //@include gradient-vertical(rgb(219, 165, 85), rgb(170, 154, 119));
       //box-shadow: inset -1px -3px 5px rgb(75, 51, 15);
@@ -271,12 +268,20 @@ body{
           color: rgb(255, 197, 92);
           font-size: 38px;
           line-height: 40px;
-          //margin: 6px 0;
           font-family: 'Cinzel', serif;
           @media (max-width: 767px){
             font-size: 28px;
             line-height: 30px;
             display: block;
+          }
+        }
+        .logo-line3 {
+          display: none;
+          @media (min-width: 1200px){
+            display: inline-block;
+            position: absolute;
+            right: 10px;
+            top: 10px;
           }
         }
 		.h-contain{
@@ -294,7 +299,7 @@ body{
                       margin-left: 0;
                       margin-bottom: 0;
                       padding: 2px 15px 5px;
-                      border-left: 1px solid #000;
+                      //border-left: 1px solid #000;
                       list-style: none;
                       display: inline;
                       a{

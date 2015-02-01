@@ -16,6 +16,11 @@ document.write('<li>'
 );
 
 document.write('<li>'
+                +'<a href="slideshow.html" class="menu-item">Photos</a>'
+                +'</li>'
+);
+
+document.write('<li>'
     +'<a href="about.html" class="menu-item">About Us</a>'
     +'</li>'
 );
