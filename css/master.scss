@@ -274,10 +274,11 @@ body{
             line-height: 30px;
             display: block;
           }
+
         }
         .logo-line3 {
           display: none;
-          @media (min-width: 1200px){
+          @media (min-width: 1200px) {
             display: inline-block;
             position: absolute;
             right: 10px;
@@ -342,6 +343,7 @@ body{
     padding-bottom:10px;
     padding-top:10px;
     .image-bar-mainbar{
+      background-color: black;
       border-style: solid;
       border-width: 7px 3px 7px 7px;
       border-color: rgb(232, 232, 228);

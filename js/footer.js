@@ -44,7 +44,7 @@ document.write(
   +"ga('create', 'UA-38507020-1', 'auto');"
   +"ga('send', 'pageview');"
 +"</script>"
-/*+'<script type="text/javascript">'
++'<script type="text/javascript">'
     +'$(window).load(function(){'
       +'$(\'.flexslider\').flexslider({'
         +'animation: "slide",'
@@ -53,5 +53,5 @@ document.write(
         +'}'
       +'});'
     +'});'
-  +'</script>'*/
+  +'</script>'
 );
