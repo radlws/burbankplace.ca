@@ -1,6 +1,6 @@
 //	contains bootstrap, flexslider, modernizr, and custom css
 document.write(
-	'<link rel="stylesheet" href="css/main.css">'
+	'<link rel="stylesheet" href="css/main.css?012015">'
     +'<script src="js/libs/modernizr.js"></script>'
     +'<script src="js/libs/jquery.min.js"></script>'
     +'<script src="js/libs/lightbox.js"></script>'
