@@ -1,3 +1,7 @@
+@import url(bootstrap.css);
+@import url(bootstrap-responsive.min.css);
+@import url(flexslider.css);
+@import url(lightbox.css);
 .visible-phone {
   display: none; }
   @media (min-width: 768px) {
