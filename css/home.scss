@@ -17,6 +17,8 @@ body {
 
 
     .page-content{
+      text-align: justify;
+      text-justify: inter-word;
       background: transparent;
         padding-top: 10px;
         &.cms-content{

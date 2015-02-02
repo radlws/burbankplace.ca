@@ -239,6 +239,8 @@ body .main-container {
   body .main-container > .row-fluid {
     background: rgba(255, 255, 255, 0.15); }
   body .main-container .page-content {
+    text-align: justify;
+    text-justify: inter-word;
     background: transparent;
     padding-top: 10px; }
     body .main-container .page-content.cms-content {
@@ -342,6 +344,9 @@ body .news-bar-container {
         margin-left: 0px; }
       body .news-bar-container .news-bar-inner-container .news-bar-item .news-bar-item-paragraph {
         padding: 10px 10px; }
+      body .news-bar-container .news-bar-inner-container .news-bar-item .news-bar-justify {
+        text-align: justify;
+        text-justify: inter-word; }
       @media (max-width: 979px) {
         body .news-bar-container .news-bar-inner-container .news-bar-item {
           text-align: center; } }

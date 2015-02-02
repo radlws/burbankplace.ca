@@ -102,6 +102,10 @@
     .news-bar-item-paragraph{
       padding: 10px 10px;
     }
+    .news-bar-justify{
+       text-align: justify;
+      text-justify: inter-word;
+    }
     @media (max-width: 979px){
       text-align: center;
     }

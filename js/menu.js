@@ -41,7 +41,7 @@ document.write('<li>'
 );
 
 document.write('<li>'
-    +'<a href="about.html" class="menu-item">Contact Us</a>'
+    +'<a href="about.html#contact-us" class="menu-item">Contact Us</a>'
     +'</li>'
 );
 
