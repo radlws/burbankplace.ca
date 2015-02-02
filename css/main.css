@@ -54,7 +54,7 @@ body {
       color: #ffc55c;
       font-size: 38px;
       line-height: 40px;
-      font-family: 'Cinzel', serif; }
+      font-family: 'Cinzel', sans-serif; }
       @media (max-width: 767px) {
         body header .logo-line2 {
           font-size: 28px;
