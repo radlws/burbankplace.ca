@@ -16,7 +16,7 @@ document.write('<li>'
 );
 
 document.write('<li>'
-                +'<a href="slideshow.html" class="menu-item">Photos</a>'
+                +'<a href="slideshow.html" class="menu-item">For Sale</a>'
                 +'</li>'
 );
 
