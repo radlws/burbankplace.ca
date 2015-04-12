@@ -5,8 +5,6 @@ document.write(
 		+'<ul class="slides">'
 			+'<li><img src="./img/flexslider/burbank6.jpg" width="1100" height="585" alt="137 Emerald St South Hamilton, ON" /></li>'
 			+'<li><img src="./img/flexslider/burbank13.jpg" width="1100" height="585" alt="137 Emerald St South Hamilton, ON" /></li>'
-			+'<li><img src="./img/flexslider/burbank15.jpg" width="1100" height="585" alt="137 Emerald St South Hamilton, ON" /></li>'
-            +'<li><img src="./img/flexslider/burbank16.jpg" width="1100" height="585" alt="137 Emerald St South Hamilton, ON" /></li>'
 			+'<li><img src="./img/flexslider/burbank14.jpg" width="1100" height="585" alt="137 Emerald St South Hamilton, ON" /></li>'
 		+'</ul>'
 	+'</div>'
